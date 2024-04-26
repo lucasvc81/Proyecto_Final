@@ -41,15 +41,17 @@ img {
     height: 300px;
     width: auto;
     padding: 20px 25px 20px 25px;
-}
+    cursor: pointer;
+  }
 .categorias img:hover {
     background-color: blue;
 }
 .categorias {
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     align-items: center;
+    /* background-color: aquamarine; */
 }
 .boton1 {
   margin-right: 20px;
