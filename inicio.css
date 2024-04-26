@@ -43,15 +43,19 @@ img {
     padding: 20px 25px 20px 25px;
     cursor: pointer;
   }
-.categorias img:hover {
-    background-color: blue;
-}
 .categorias {
     display: flex;
     justify-content: center;
-    /* margin-top: 20px; */
     align-items: center;
     /* background-color: aquamarine; */
+}
+.categorias img {
+  opacity: 1;
+    transition:all 0.3s;
+}
+.categorias img:hover {
+  /* background-color: blue; */
+    opacity: 0.5;
 }
 .boton1 {
   margin-right: 20px;
