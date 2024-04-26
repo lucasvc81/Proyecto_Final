@@ -81,7 +81,7 @@ img {
   cursor: pointer;
   padding: 2px 2px 2px 2px;
 }
-.boton1:hover {
+/* .boton1:hover {
   background-color: lightgrey;
 }
 .boton2:hover {
@@ -95,7 +95,7 @@ img {
 }
 .boton5:hover {
   background-color: lightgrey;
-}
+} */
 
 @media screen and (max-width: 1380px) {
 
