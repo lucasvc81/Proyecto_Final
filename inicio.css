@@ -22,9 +22,6 @@ h1 {
   text-align: left;
   padding: 0 20px;
 }
-h2 {
-  padding: 0%;
-}
 .menu {
   background-color: #ffde59;
   display: flex;
@@ -86,21 +83,26 @@ img {
   cursor: pointer;
   padding: 2px 2px 2px 2px;
 }
-/* .boton1:hover {
-  background-color: lightgrey;
+.boton1:hover {
+  transform: scale(1.1);
+  font-weight: bold;
 }
 .boton2:hover {
-  background-color: lightgrey;
+  transform: scale(1.1);
+  font-weight: bold;
 }
 .boton3:hover {
-  background-color: lightgrey;
+  transform: scale(1.1);
+  font-weight: bold;
 }
 .boton4:hover {
-  background-color: lightgrey;
+  transform: scale(1.1);
+  font-weight: bold;
 }
 .boton5:hover {
-  background-color: lightgrey;
-} */
+  transform: scale(1.1);
+  font-weight: bold;
+}
 
 @media screen and (max-width: 1380px) {
   /* body {
