@@ -16,7 +16,7 @@ header {
 .brand img {
   width: 40px;
   height: auto;
-  margin-right: 800px;
+  /* margin-right: 800px; */
 }
 h1 {
   text-align: left;
