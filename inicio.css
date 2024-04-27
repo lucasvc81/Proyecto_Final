@@ -16,7 +16,11 @@ header {
 .brand img {
   width: 40px;
   height: auto;
-  /* margin-right: 800px; */
+  /* padding: 0 20px; */
+  margin: 0px 20px;
+  float:inherit;
+  position: sticky;
+  top: 0px;
 }
 h1 {
   text-align: left;
