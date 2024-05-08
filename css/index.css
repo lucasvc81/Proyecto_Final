@@ -47,3 +47,16 @@ nav ul li a {
     display: block;
     text-align: center;
 }
+
+nav ul li a:hover {
+    background-color: #FFDE59;
+}
+
+footer {
+    background-color: #ccc;
+    clear: both;
+    color: #333;
+    text-align: center;
+    padding: 5px 0;
+    margin: 20px;
+}
