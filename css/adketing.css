@@ -24,7 +24,7 @@ footer {
 }
 
 header h1 {
-    color: white;
+    color: black;
     font-size: 40px;
     font-weight: 3000;
     font-style: italic;
@@ -201,3 +201,5 @@ h2 {
 .servicio:nth-child(even) { /* even es para las lineas par, empieza por CERO */
     flex-direction: row-reverse;
 }
+
+/* Fin de servicios */
