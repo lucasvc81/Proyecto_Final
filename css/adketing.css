@@ -12,6 +12,8 @@ body {
 header {
     background-color: #FFDE59;
     padding: 16px 0;
+    /* position: sticky;
+    top: 0; */
 }
 
 footer {
@@ -36,6 +38,8 @@ header h1 {
 
 nav {
     background-color: #FFF4BA;
+    position: sticky;
+    top: 0;
 }
 
 nav ul {
