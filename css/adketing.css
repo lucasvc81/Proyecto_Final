@@ -74,6 +74,20 @@ nav ul li a.activo {
     margin: 0 auto;
 }
 
+.homeimg {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.homeimg img {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 2%;
+}
+
 h2 {
     color: black;
     font-weight: 400;
